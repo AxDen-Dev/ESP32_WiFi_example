@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/Users/jangsangjin/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/bootloader",
+    "config_file":        "/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4-dev-479-g1067b2870",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/Users/jangsangjin/esp/esp-idf/components/efuse/Kconfig;/Users/jangsangjin/esp/esp-idf/components/esp32/Kconfig;/Users/jangsangjin/esp/esp-idf/components/esp_common/Kconfig;/Users/jangsangjin/esp/esp-idf/components/esp_hw_support/Kconfig;/Users/jangsangjin/esp/esp-idf/components/esp_system/Kconfig;/Users/jangsangjin/esp/esp-idf/components/log/Kconfig;/Users/jangsangjin/esp/esp-idf/components/newlib/Kconfig;/Users/jangsangjin/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/Users/jangsangjin/esp/esp-idf/components/bootloader/Kconfig.projbuild;/Users/jangsangjin/esp/esp-idf/components/esp_rom/Kconfig.projbuild;/Users/jangsangjin/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/Users/jangsangjin/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/Users/jangsangjin/esp/esp-idf/components/bootloader", "/Users/jangsangjin/esp/esp-idf/components/bootloader_support", "/Users/jangsangjin/esp/esp-idf/components/efuse", "/Users/jangsangjin/esp/esp-idf/components/esp32", "/Users/jangsangjin/esp/esp-idf/components/esp_common", "/Users/jangsangjin/esp/esp-idf/components/esp_hw_support", "/Users/jangsangjin/esp/esp-idf/components/esp_rom", "/Users/jangsangjin/esp/esp-idf/components/esp_system", "/Users/jangsangjin/esp/esp-idf/components/esptool_py", "/Users/jangsangjin/esp/esp-idf/components/hal", "/Users/jangsangjin/esp/esp-idf/components/log", "/Users/jangsangjin/esp/esp-idf/components/bootloader/subproject/main", "/Users/jangsangjin/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/Users/jangsangjin/esp/esp-idf/components/newlib", "/Users/jangsangjin/esp/esp-idf/components/partition_table", "/Users/jangsangjin/esp/esp-idf/components/soc", "/Users/jangsangjin/esp/esp-idf/components/spi_flash", "/Users/jangsangjin/esp/esp-idf/components/xtensa", "" ]
+}

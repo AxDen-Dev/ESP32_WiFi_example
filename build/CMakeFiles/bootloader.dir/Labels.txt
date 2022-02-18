@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/CMakeFiles/bootloader
+/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/CMakeFiles/bootloader.rule
+/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/CMakeFiles/bootloader-complete.rule
+/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/jangsangjin/eclipse-workspace/ESP32_WiFi_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
