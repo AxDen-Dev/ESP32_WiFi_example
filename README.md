@@ -6,6 +6,13 @@
 <br>
 
 AXDEN ESP32 RTOS WiFi Example
+<br>
+
+네이버 스마트 스토어에서 구매 가능합니다.
+<br>
+
+[네이버 스마트 스토어](https://smartstore.naver.com/axden)
+<br>
 
 -----------------------
 
