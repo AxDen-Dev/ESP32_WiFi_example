@@ -7,11 +7,16 @@
 
 AXDEN ESP32 RTOS WiFi Example
 <br>
-
-네이버 스마트 스토어에서 구매 가능합니다.
 <br>
 
-[네이버 스마트 스토어](https://smartstore.naver.com/axden)
+Related hardware kits can be purchased from the Naver Smart Store.
+<br>
+
+[Purchase Link : naver smart store](https://smartstore.naver.com/axden)
+<br>
+<br>
+
+You can purchase it by contacting sales@axden.io
 <br>
 
 -----------------------
